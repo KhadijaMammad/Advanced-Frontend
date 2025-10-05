@@ -22,11 +22,20 @@ Each step validates input before proceeding to the next stage, ensuring a clean 
 - **JavaScript (ES6+)**  
 - **CSS / Custom Styling**
 
-FEATURES
-Four-step form with dynamic validation
-Real-time progress bar
-Conditional rendering (fields change based on occupation)
-Checkbox group selection (interests)
-Form reset option (“Start Over”)
-Clean, responsive UI
 
+| File/Folder | Description |
+|--------------|-------------|
+| `MultiForm.jsx` | Main container managing steps and form state |
+| `StepOne–StepFour.jsx` | Separate components for each form section |
+| `form.css`, `step-3.css` | Styling files for layout and design |
+| `App.jsx` | Root component |
+| `main.jsx` | React entry point |
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/KhadijaMammad/Advanced-Frontend.git
+   cd \Advanced-Frontend\Week-2\Multi-form
