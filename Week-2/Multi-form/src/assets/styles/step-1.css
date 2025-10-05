@@ -39,7 +39,7 @@
 }
 
 .form-group input:invalid:not(:focus):not(:placeholder-shown) {
-  border-color: #f44336;
+  border-color: #ede3e3;
 }
 
 @keyframes fadeIn {
