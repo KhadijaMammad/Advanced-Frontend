@@ -1,8 +1,33 @@
-# React + Vite
+# Advanced-Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Advanced-Frontend** is a modern web application built with **React** and **Vite**, deployed on  
+(https://advanced-frontend-mcfv.vercel.app/).
 
-Currently, two official plugins are available:
+## 🧩 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React  
+- Vite  
+- CSS
+- Drag and Drop 
+ 
+
+## ⚙️ Installation & Setup
+
+To run this project locally:
+
+```bash
+# clone the repository
+git clone https://github.com/KhadijaMammad/Advanced-Frontend.git
+
+# go into the project directory
+cd Advanced-Frontend
+cd Week-2
+cd Kanban-Board
+
+# install dependencies
+npm install  
+
+# start the development server
+npm run dev
+
+
