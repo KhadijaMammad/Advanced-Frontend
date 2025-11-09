@@ -89,7 +89,7 @@ export default function ImageCard({
               </h3>
               <button
                 onClick={() => setIsEditing(true)}
-                className="p-1 text-gray-400 hover:text-gray-600 hover:bg-gray-100 rounded flex-shrink-0"
+                className="p-1 text-gray-400 hover:text-gray-600 hover:bg-gray-100 rounded shrink-0"
                 title="Rename"
               >
                 <Edit2 className="w-4 h-4" />
