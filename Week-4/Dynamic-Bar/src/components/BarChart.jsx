@@ -11,7 +11,6 @@ export const BarChart = ({ data, width = 800, height = 400 }) => {
   const chartWidth = width - padding.left - padding.right;
   const chartHeight = height - padding.top - padding.bottom;
 
-  // Safely extract data
   const categories = data && typeof data === 'object' ? Object.keys(data) : [];
   const values = data && typeof data === 'object' ? Object.values(data).map(v => Number(v) || 0) : [];
   const maxValue = values.length > 0 ? Math.max(...values, 1) : 1;
@@ -79,7 +78,6 @@ export const BarChart = ({ data, width = 800, height = 400 }) => {
 
   const yAxisTicks = 5;
 
-  // Render empty state if no data
   if (!data || typeof data !== 'object' || categories.length === 0) {
     return (
       <div className="flex items-center justify-center p-8 text-gray-500 dark:text-gray-400">
