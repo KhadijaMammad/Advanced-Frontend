@@ -1,8 +1,27 @@
-# React + Vite
+This file is for my all tasks' live demo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I presentation to projects:
 
-Currently, two official plugins are available:
+ 1. Sidebar Navigation - https://advanced-frontend-neon.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 2. Multi-Step Form with Conditional Logic & Preview - https://advanced-frontend-udb6.vercel.app/
+
+ 3. Drag-and-Drop Kanban Board (Local State Only) - https://advanced-frontend-mcfv.vercel.app/
+
+ 4. Interactive Table with Sorting, Filtering & Row Actions - https://advanced-frontend-b7ls.vercel.app/
+
+ 5. Drag-and-Drop Kanban Board (Local State Only) - https://advanced-frontend-mcfv.vercel.app/
+
+ 6. Local Image Upload & Metadata Manager - https://advanced-frontend-z95p.vercel.app/
+
+ 7. Document Viewer with Access Controls (Local Only) - https://advanced-frontend-tie7.vercel.app/
+
+ 8. File Access Tracker & Download Limiter (Simulated) - https://advanced-frontend-pm26.vercel.app/
+
+ 9. Interactive Data Table with Grouping & Aggregates - 
+
+ 10. Multi-Filter Dashboard with Live Summary Panel - 
+
+
+
+
